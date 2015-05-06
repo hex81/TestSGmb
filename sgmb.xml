@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sgmb>
+    <host>sgmbsim</host>
+    <realm>ericsson.com</realm>
+    <sgimb>2001:1b70:200:1028::81:1</sgimb>
+    <port>3868</port>
+    <mdfcp-list>
+        <mdfcp_address>2001:1b70:200:1029::31</mdfcp_address>
+        <mdfcp_address>2001:1b70:200:1029::32</mdfcp_address>
+        <mdfcp_address></mdfcp_address>
+        <mdfcp_address></mdfcp_address>
+    </mdfcp-list>
+</sgmb>
